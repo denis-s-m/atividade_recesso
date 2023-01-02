@@ -1,0 +1,10 @@
+.rodape {
+    align-items: center;
+    background: lightblue;
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}

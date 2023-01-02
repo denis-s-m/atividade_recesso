@@ -1,0 +1,8 @@
+.contatos {
+    align-items: center;
+    background-color: #27caff;
+    border-radius: 0 0 12px 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}

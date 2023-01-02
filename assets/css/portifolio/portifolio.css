@@ -1,0 +1,6 @@
+.portifolio {
+    background: #cbffff;
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,10 @@
+.formulario__enviar {
+    background: darkcyan;
+    color: white;
+    cursor: pointer;
+}
+
+.formulario__enviar:hover {
+    background: #cbffff;
+    color: black;
+}

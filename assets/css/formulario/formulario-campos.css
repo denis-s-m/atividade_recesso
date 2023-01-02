@@ -1,0 +1,11 @@
+.formulario__campos {
+    border: 1px solid darkcyan;
+    border-radius: 20px;
+    min-width: 300px;
+    outline: unset;
+    padding: 20px;
+}
+
+.formulario__campos:focus {
+    background: wheat;
+}

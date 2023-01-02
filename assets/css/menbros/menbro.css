@@ -1,0 +1,4 @@
+.menbro {
+    display: flex;
+    flex-direction: column;
+}

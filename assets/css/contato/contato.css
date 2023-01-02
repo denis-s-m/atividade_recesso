@@ -1,0 +1,9 @@
+.contato {
+    align-items: center;
+    background-color: #e83a3a;
+    border-radius: 12px 12px 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+}

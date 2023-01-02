@@ -1,0 +1,14 @@
+.menu__link {
+    background-color: aqua;
+    border: none;
+    border-radius: 7px;
+    box-sizing: border-box;
+    color: black;
+    margin-right: 2px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.menu__link:hover {
+    background: lightblue;
+}
